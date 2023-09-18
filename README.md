@@ -1,6 +1,8 @@
 Olá!! 😁 Eu sou o Tarik e vou contar um pouco sobre mim...
 
-Sou empresário do ramo de tecnologia mas mais do que isso sou um estudante apaixonado por Machine Learning. Dedicarei este espaço a compartilhar meus projetos, códigos e aprendizados nesta empolgante jornada. 
+Sou empresário do ramo de tecnologia mas mais do que isso sou um estudante apaixonado por Machine Learning. 
+
+Dedicarei este espaço a compartilhar meus projetos, códigos e aprendizados nesta empolgante jornada. 
 
 Atualmente, estou imerso no estudo da Inteligência Artificial, buscando constantemente aprimorar minhas habilidades e conhecimentos nesta área dinâmica. Tenho um interesse profundo em Machine Learning e em como suas aplicações podem resolver desafios do mundo real.
 
